@@ -29,7 +29,8 @@ public class CheckCollision : MonoBehaviour
         }
     }
 
-    bool CheckCollisionFigures() //Chequea todos los puntos...
+    bool CheckCollisionFigures() //Chequea para cada uno de los puntos en la grilla en cada figura y me devuelve un valor verdadero o falso en cada una,
+                                 //si en ambas es positivo (es decir que ese punto esta dentro de cada figura, entonces devuelve verdadero.
     {
         foreach (Vector3 point in grid.GetPoints())
         {
