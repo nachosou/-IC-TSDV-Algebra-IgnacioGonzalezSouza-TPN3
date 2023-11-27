@@ -1,3 +1,3 @@
-# -IC-TSDV-Algebra-CarolinaPohn-TPN3
+# -IC-TSDV-Algebra-IgnacioGonzalezSouza-TPN3
 
-Carolina Pohn
+Ignacio Gonzalez Souza
